@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
                 color: Colors.blue
                 width: 150,
                 height: 50,
-                child: Text("Saya sedang belajar flutter mobile aplikasi"))),
+                child: Text("Sudah saya update data"))),
       ),
     );
   }
